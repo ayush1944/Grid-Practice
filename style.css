@@ -45,6 +45,9 @@ html,body{
     font-weight: 500;
     font-size: 1.8vh;
 }
+#left-top-right h6{
+    display: none;
+}
 
 
 #left-center{
