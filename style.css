@@ -46,7 +46,7 @@ html,body{
     font-size: 1.8vh;
 }
 #left-top-right h6{
-/*     display: none; */
+    display: none;
 }
 
 
@@ -205,6 +205,7 @@ html,body{
         display: none;
     }
     #left-top-right h6{
+        display: initial;
         font-size: 1.8vh;
     }
     #left-center{
